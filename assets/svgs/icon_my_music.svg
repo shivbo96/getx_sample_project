@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="22" viewBox="0 0 24 22">
+    <g id="my_music_3" transform="translate(-3021 -2972)">
+        <rect id="Rectangle_2390" width="20" height="18" rx="3" transform="translate(3021 2976)"
+            fill="#fff" opacity="0.3"/>
+        <path id="Subtraction_5"
+            d="M17,21H3a3,3,0,0,1-3-3V6A3,3,0,0,1,3,3V15a3,3,0,0,0,3,3H20A3,3,0,0,1,17,21Z"
+            transform="translate(3045 2993) rotate(180)" fill="#fff" opacity="0.3"/>
+        <g id="Group_4356" transform="translate(3023.85 2978.896)">
+            <g id="music-note-beamed" transform="translate(0 0)">
+                <path id="Path_3269"
+                    d="M6.643,23.764a2.014,2.014,0,0,1-2.2,1.757,2.014,2.014,0,0,1-2.2-1.757,2.015,2.015,0,0,1,2.2-1.757A2.015,2.015,0,0,1,6.643,23.764Zm7.907-1.757a2.014,2.014,0,0,1-2.2,1.757,2.014,2.014,0,0,1-2.2-1.757,2.014,2.014,0,0,1,2.2-1.757A2.014,2.014,0,0,1,14.55,22.007Z"
+                    transform="translate(-2.25 -13.313)" fill="#0000ffff" />
+                <path id="Path_3270"
+                    d="M19.157,12.407V4.5h.879v7.907ZM12.129,5.379v8.786H11.25V5.379Z"
+                    transform="translate(-7.736 -3.713)" fill="#0000ffff" />
+                <path id="Path_3271"
+                    d="M11.25,4.067a.879.879,0,0,1,.791-.874l7.029-.7a.879.879,0,0,1,.966.874v.786l-8.786.879Z"
+                    transform="translate(-7.736 -2.486)" fill="#0000ffff" />
+            </g>
+        </g>
+    </g>
+</svg>
